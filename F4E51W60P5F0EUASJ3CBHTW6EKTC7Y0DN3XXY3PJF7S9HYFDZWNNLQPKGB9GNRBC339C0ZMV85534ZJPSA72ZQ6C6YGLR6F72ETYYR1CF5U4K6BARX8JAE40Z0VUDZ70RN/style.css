@@ -275,9 +275,9 @@ body {
 }
 
 @media screen and (max-width: 576px) {
-  .header-section .qrc-head {
+  /* .header-section .qrc-head {
     display: none;
-  }
+  } */
 
   .content-section .content-box .box-content .details-txt {
     padding: 10px;
