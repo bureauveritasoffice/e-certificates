@@ -283,6 +283,15 @@ body {
     padding: 10px;
     padding-left: 0;
   }
+
+  .header-section .qrc-head .qr-head-title span {
+    white-space: nowrap;
+  }
+
+  .header-section .qrc-head .qr-head-details .line1,
+  .header-section .qrc-head .qr-head-details .line2 {
+    white-space: nowrap;
+  }
 }
 
 @media screen and (max-width: 375px) {
