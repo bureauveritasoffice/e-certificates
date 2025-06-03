@@ -57,8 +57,8 @@ body {
 }
 
 .header-section .left-nav .qr-head-title span {
-  font-weight: normal;
-  font-family: din-light;
+  font-weight: bold;
+  font-family: din-Regular;
 }
 
 .header-section .left-nav .qr-head-details {
